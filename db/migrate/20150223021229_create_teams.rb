@@ -5,7 +5,7 @@ class CreateTeams < ActiveRecord::Migration
       t.integer :wins
       t.integer :losses
       t.integer :ranking
-      t.references
+      t.timestamps
     end
   end
 end
