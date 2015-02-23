@@ -1,28 +1,12 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Cornerstone Gaming League
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is an application being created for a closed gaming league where those with affiliation with Cornerstone Evangelical Baptist Church may game together while promoting the importance of teamwork and brotherhood/sisterhood.
+
+This application will list teams along with their players and game they are playing.
+
+This application will list player and team stats.
+
+This application will show a schedule and show which teams are playing.
+
+This application will provide links to games played.
